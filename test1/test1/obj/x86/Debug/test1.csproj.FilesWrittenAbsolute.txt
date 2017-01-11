@@ -1,0 +1,5 @@
+/Users/yxwang/mono/test1/test1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/yxwang/mono/test1/test1/bin/Debug/test1.exe.mdb
+/Users/yxwang/mono/test1/test1/bin/Debug/test1.exe
+/Users/yxwang/mono/test1/test1/obj/x86/Debug/test1.exe
+/Users/yxwang/mono/test1/test1/obj/x86/Debug/test1.exe.mdb
